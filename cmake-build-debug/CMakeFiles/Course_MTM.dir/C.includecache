@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/orshemesh/git/Course-MTM/driver.h
+team.h
+C:/Users/orshemesh/git/Course-MTM/team.h
+season.h
+C:/Users/orshemesh/git/Course-MTM/season.h
+
+C:/Users/orshemesh/git/Course-MTM/main.c
+stdio.h
+-
+stdlib.h
+-
+driver.h
+C:/Users/orshemesh/git/Course-MTM/driver.h
+team.h
+C:/Users/orshemesh/git/Course-MTM/team.h
+season.h
+C:/Users/orshemesh/git/Course-MTM/season.h
+assert.h
+-
+string.h
+-
+
+C:/Users/orshemesh/git/Course-MTM/season.h
+team.h
+C:/Users/orshemesh/git/Course-MTM/team.h
+driver.h
+C:/Users/orshemesh/git/Course-MTM/driver.h
+
+C:/Users/orshemesh/git/Course-MTM/team.c
+
+C:/Users/orshemesh/git/Course-MTM/team.h
+driver.h
+C:/Users/orshemesh/git/Course-MTM/driver.h
+

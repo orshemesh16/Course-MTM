@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2017.3.4\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\orshemesh\git\Course-MTM
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    driver.h
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: Course_MTM
+CMake Error: Cannot determine link language for target "Course_MTM".
+-- Generating done
+-- Build files have been written to: C:/Users/orshemesh/git/Course-MTM/cmake-build-debug
+Unable to determine product file path for target Course_MTM. Running and debugging will be unavailable.
